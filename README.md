@@ -8,11 +8,11 @@ C++とOpenCVを使用した簡単な画像処理プログラム
 ## 概要 (Overview)
 送られてきた画像を読み込み、5つの画像データを出力する
 
-normal.png　//通常時. 
-ready.png　//乾杯準備時. 
-kanpai.png　//乾杯時. 
-good.png　//乾杯成功時. 
-miss.png　//乾杯失敗時. 
+normal.png　//通常時 
+ready.png　//乾杯準備時 
+kanpai.png　//乾杯時 
+good.png　//乾杯成功時 
+miss.png　//乾杯失敗時 
 
 ## 動作環境 (Requirements)
 動作確認を行った環境や必要なライブラリを記載します。
