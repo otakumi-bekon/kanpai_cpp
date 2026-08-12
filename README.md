@@ -33,6 +33,6 @@ miss.png　//乾杯失敗時 <br>
 * **依存ライブラリ**: OpenCV 4.x
 
 ## ビルド・実行方法 (Build & Run)
-cdコマンドでscript内に移動 <br>
+cdコマンドでscript内に移動 (cd script) <br>
 コンパイルコマンド (g++ -std=c++11 kanpai3.cpp -o kanpai3 `pkg-config --cflags --libs opencv4`) <br>
 実行コマンド (./kanpai3)
