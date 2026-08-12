@@ -1,0 +1,13 @@
+# ビルド生成物・実行ファイル
+*.exe
+*.o
+*.obj
+*.out
+
+# Visual Studio / VS Code 関連
+.vs/
+bin/
+obj/
+x64/
+x86/
+Build/
