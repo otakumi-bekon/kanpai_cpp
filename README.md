@@ -3,12 +3,13 @@
 C++とOpenCVを使用した簡単な画像処理プログラム
 
 <!-- 画像を表示する例（.png への相対パスを指定してください） -->
-![デモ画面]()
+
 
 ## 概要 (Overview)
 送られてきた画像を読み込み、5つの画像データを出力する
 
 normal.png　//通常時 <br>
+![normal.png](![Uploading normal.png…])
 ready.png　//乾杯準備時 <br>
 kanpai.png　//乾杯時 <br>
 good.png　//乾杯成功時 <br>
