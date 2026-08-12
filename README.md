@@ -1,6 +1,7 @@
 # kanpai_cpp
 
-C++とOpenCVを使用した簡単な画像処理プログラム
+C++とOpenCVを使用した簡単な画像処理プログラム <br>
+☑️追記：角度、パラメーターは調整予定だが、基本構造は変わらず。
 
 <!-- 画像を表示する例（.png への相対パスを指定してください） -->
 
@@ -32,5 +33,6 @@ miss.png　//乾杯失敗時 <br>
 * **依存ライブラリ**: OpenCV 4.x
 
 ## ビルド・実行方法 (Build & Run)
+cdコマンドでscript内に移動 <br>
 コンパイルコマンド (g++ -std=c++11 kanpai3.cpp -o kanpai3 `pkg-config --cflags --libs opencv4`) <br>
 実行コマンド (./kanpai3)
