@@ -9,7 +9,7 @@ C++とOpenCVを使用した簡単な画像処理プログラム
 送られてきた画像を読み込み、5つの画像データを出力する
 
 normal.png　//通常時 <br>
-![normal.png](![Uploading normal.png…])
+![normal.png] <img width="4284" height="5712" alt="normal" src="https://github.com/user-attachments/assets/2eab5a89-d5fe-442d-a163-f482c02e5ef6" />
 ready.png　//乾杯準備時 <br>
 kanpai.png　//乾杯時 <br>
 good.png　//乾杯成功時 <br>
